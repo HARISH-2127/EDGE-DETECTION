@@ -73,13 +73,13 @@ plt.axis('off')
 
 ## Output:
 
-<img width="357" height="486" alt="image" src="https://github.com/user-attachments/assets/235d3b37-17ad-4f42-b4aa-50afc42d2d0c" />
+<img width="378" height="500" alt="image" src="https://github.com/user-attachments/assets/83d92939-c3ab-4b77-a9bc-8239a6fa963d" />
 
-<img width="360" height="497" alt="image" src="https://github.com/user-attachments/assets/5983a63e-fca0-4cd3-8e4c-4c1dbf182053" />
+<img width="376" height="508" alt="image" src="https://github.com/user-attachments/assets/4bb60d98-2670-431d-83e3-eb51ee35c950" />
 
-<img width="365" height="489" alt="image" src="https://github.com/user-attachments/assets/0d1fceee-3002-4f8d-be93-8a141a4400f6" />
+<img width="370" height="503" alt="image" src="https://github.com/user-attachments/assets/8cca92a0-f28a-4863-b4da-ed15daac7d47" />
 
-<img width="358" height="494" alt="image" src="https://github.com/user-attachments/assets/8cac3738-9b4e-4c8c-ad60-e8c3c633035b" />
+<img width="384" height="548" alt="image" src="https://github.com/user-attachments/assets/256253c5-072b-46dd-9339-3dce10751796" />
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
